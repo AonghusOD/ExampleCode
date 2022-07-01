@@ -1,0 +1,47 @@
+﻿  main.cpp
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(19,19): error C2065: 'Programmer': undeclared identifier
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(19,12): error C2923: 'std::vector': 'Programmer' is not a valid template type argument for parameter '_Ty'
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(19): message : see declaration of 'Programmer'
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(19,12): error C2976: 'std::vector': too few template arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(443): message : see declaration of 'std::vector'
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(20,37): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(20,37): error C2143: syntax error: missing ',' before '&'
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(23,14): error C2065: 'Programmer': undeclared identifier
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(23,7): error C2923: 'std::vector': 'Programmer' is not a valid template type argument for parameter '_Ty'
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(23): message : see declaration of 'Programmer'
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(23,7): error C2976: 'std::vector': too few template arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(443): message : see declaration of 'std::vector'
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(28,14): error C2143: syntax error: missing ';' before '&'
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(28,14): error C2226: syntax error: unexpected type 'std::ostream'
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(28,54): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Programmer\Programmer.h(13,1): warning C4005: 'VERBOSE': macro redefinition
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(13): message : see previous definition of 'VERBOSE'
+  team.cpp
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(19,19): error C2065: 'Programmer': undeclared identifier
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(19,12): error C2923: 'std::vector': 'Programmer' is not a valid template type argument for parameter '_Ty'
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(19): message : see declaration of 'Programmer'
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(19,12): error C2976: 'std::vector': too few template arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(443): message : see declaration of 'std::vector'
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(20,37): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(20,37): error C2143: syntax error: missing ',' before '&'
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(23,14): error C2065: 'Programmer': undeclared identifier
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(23,7): error C2923: 'std::vector': 'Programmer' is not a valid template type argument for parameter '_Ty'
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(23): message : see declaration of 'Programmer'
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(23,7): error C2976: 'std::vector': too few template arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(443): message : see declaration of 'std::vector'
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(28,14): error C2143: syntax error: missing ';' before '&'
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(28,14): error C2226: syntax error: unexpected type 'std::ostream'
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(28,54): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Programmer\Programmer.h(13,1): warning C4005: 'VERBOSE': macro redefinition
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(13): message : see previous definition of 'VERBOSE'
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.cpp(9,1): error C2512: 'std::vector': no appropriate default constructor available
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(443,1): message : see declaration of 'std::vector'
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.cpp(16,1): error C2511: 'team::team(std::vector<Programmer,std::allocator<Programmer>>)': overloaded member function not found in 'team'
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(15): message : see declaration of 'team'
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.cpp(25,1): error C2511: 'void team::AddProgrammer(const Programmer &)': overloaded member function not found in 'team'
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(15): message : see declaration of 'team'
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.cpp(29,63): error C2556: 'std::ostream &operator <<(std::ostream &,const team &)': overloaded function differs only by return type from 'int &operator <<(std::ostream &,const team &)'
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(28): message : see declaration of 'operator <<'
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.cpp(29,15): error C2371: 'operator <<': redefinition; different basic types
+C:\Users\Marlot\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(28): message : see declaration of 'operator <<'
+  Generating Code...

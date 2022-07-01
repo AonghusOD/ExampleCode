@@ -1,0 +1,8 @@
+Project is based on book store application
+Created with Nextjs
+Hosted on AWS ec2 server
+Data is stored in mongodb database
+Updates entry in database for cart number instead of creating new entry
+Cart number is saved in seperate component so navigation panel doesnt reload with every decrement or increment
+Add to cart creates new entry in database
+Delete button in cart deletes entry assosiated with id

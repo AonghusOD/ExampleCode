@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\g00293306\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(14,1): warning C4005: 'VERBOSE': macro redefinition
+C:\Users\g00293306\OneDrive - GMIT\C++\Programmer Project\Programmer\Programmer\Programmer.h(11): message : see previous definition of 'VERBOSE'
+  Team.cpp
+C:\Users\g00293306\OneDrive - GMIT\C++\Programmer Project\Programmer\Team\team.h(14,1): warning C4005: 'VERBOSE': macro redefinition
+C:\Users\g00293306\OneDrive - GMIT\C++\Programmer Project\Programmer\Programmer\Programmer.h(11): message : see previous definition of 'VERBOSE'
+  Generating Code...
+Team.obj : error LNK2019: unresolved external symbol "public: __cdecl Programmer::Programmer(class Programmer const &)" (??0Programmer@@QEAA@AEBV0@@Z) referenced in function "public: static void __cdecl std::_Default_allocator_traits<class std::allocator<class Programmer> >::construct<class Programmer,class Programmer &>(class std::allocator<class Programmer> &,class Programmer * const,class Programmer &)" (??$construct@VProgrammer@@AEAV1@@?$_Default_allocator_traits@V?$allocator@VProgrammer@@@std@@@std@@SAXAEAV?$allocator@VProgrammer@@@1@QEAVProgrammer@@AEAV3@@Z)
+Team.obj : error LNK2019: unresolved external symbol "public: __cdecl Programmer::~Programmer(void)" (??1Programmer@@QEAA@XZ) referenced in function "public: void * __cdecl Programmer::`scalar deleting destructor'(unsigned int)" (??_GProgrammer@@QEAAPEAXI@Z)
+C:\Users\g00293306\OneDrive - GMIT\C++\Programmer Project\Programmer\x64\Debug\Team.exe : fatal error LNK1120: 2 unresolved externals

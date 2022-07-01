@@ -1,0 +1,3 @@
+Assignments wthat were given throughout the year.
+
+Intellij was used as IDE.

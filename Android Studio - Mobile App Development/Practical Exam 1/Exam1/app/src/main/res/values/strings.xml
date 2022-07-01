@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Exam1</string>
+    <string name="buttonOne">buttonOne</string>
+    <string name="TextView">TextView</string>
+    <string name="PhoneNumber">PhoneNumber</string>
+    <string name="Name">Name</string>
+    <string name="Phone">Phone</string>
+    <string name="btnSend3">btnSend</string>
+    <string name="num1">num1</string>
+    <string name="num2">num2</string>
+    <string name="num3">num3</string>
+    <string name="num4">num4</string>
+    <string name="num5">num5</string>
+    <string name="ButtonOne">Save Data</string>
+    <string name="btnSend2">Send</string>
+    <string name="btnSend">Send</string>
+</resources>

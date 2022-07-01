@@ -1,0 +1,30 @@
+Assignment 3
+
+Question 1.
+
+Define a database manipulation application for the books database.
+
+In addition to the querying, the user should be able to add new data to the database (obeying referential and entity integrity constraints).
+
+Allow the user to edit the database in the following ways:
+
+a) Add a new author.
+
+b) Add a new title for an author. (Remember that the book must have an entry in the AuthorISBN table.) Be sure to specify the publisher of the title.
+
+c) Add a new publisher.
+
+d) For each of the preceding database manipulations, design an appropriate GUI to allow the user to perform the data manipulation.
+
+ 
+
+Question 2.
+
+Modify the Search capability in the address book example to allow the user to scroll through the ResultSet in case there is more than one person with the specified last name in the addressbook database.
+
+Provide an appropriate GUI.
+
+All your code  should be Thread safe. 
+
+Updating GUI should be only done through
+SwingUtilities.invokeLater or SwingWorker.
