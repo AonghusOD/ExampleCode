@@ -22,10 +22,22 @@ To run app:
 
 ### FreeRTOS
 IDE: MCUExpresso
+All projects are optimised to use FRDM-K64F Micocontroller. SO FRDM-K64F would be required to run or test code.
 
 Drag folder to workspace or import project.
+```
+Build Project
+```
+```
+Start Debug Session
+```
+```
+Open Serial terminal with FRDM-K64F
+```
+```
+Run Program
+```
 
-All projects are optimised to use FRDM-K64F Micocontroller. SO FRDM-K64F would be required to run or test code. 
 
 ### Java Network Programming
 IDE: Intellij
