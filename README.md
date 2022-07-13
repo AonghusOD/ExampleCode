@@ -31,33 +31,34 @@ All projects are optimised to use FRDM-K64F Micocontroller. SO FRDM-K64F would b
 IDE: Intellij
 
 Save Project to local machine. 
-'''
+```
 File - Open Folder
-'''
-'''
+```
+```
 Click Run or Play button
-'''
+```
 
 
 ### MERN Stack - Cloud Computing
 IDE: Visual Studio Code
 
 Save project to local machine. Inside Visual Studio Code navigate to folder.
-'''
+```
 Open Terminal inside Visual Studio
-'''
+```
 Run Commands
 
-'''
+```
 npx create-react-app my-app
 cd my-app
-K
+npm start
+```
 
 
 Application can be seen running via internet browser at address:
-'''
+```
 https://localhost:3000/
-'''
+```
 
 
 Database was hosted on an AWS server so data will not be able to be saved and only defaults displayed.
@@ -71,26 +72,26 @@ Run Spyder application.
 
 Import file to workspace.
 
-'''
+```
 Press F5 To Run
-'''
+```
 
 ### React Website
 IDE: Visual Studio Code
 
 Save project to local machine. Inside Visual Studio Code navigate to folder.
-'''
+```
 Open Terminal inside Visual Studio
-'''
+```
 Run Commands
 
-'''
+```
 npx create-react-app my-app
 cd my-app
-K
-
+npm start
+```
 
 Application can be seen running via internet browser at address:
-'''
+```
 https://localhost:3000/
-'''
+```
