@@ -5,9 +5,9 @@
 ### Android Studio - Mobile Apps Development
 IDE: Android Studio Arctic Fox (2020.3.1)
 
-API 30 
+API: 30 
 
-Gradle Version 7.0.2
+Gradle Version: 7.0.2
 ```
 Import Folder to workspace and app should run.
 ```
