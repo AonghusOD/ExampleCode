@@ -1,4 +1,4 @@
-# Example Code Aonghus O Donnell
+# Example Code by Aonghus O Donnell
 
 ## Getting Started
 
