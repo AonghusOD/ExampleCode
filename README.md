@@ -61,7 +61,7 @@ Save project to local machine. Inside Visual Studio Code navigate to folder.
 ```
 Open Terminal inside Visual Studio
 ```
-To download the repository and install dependencies, run the following commands:
+To download the repository and install dependencies, run the following command:
 
 ```
 npm install
@@ -77,8 +77,7 @@ Application can be seen running via internet browser at address:
 https://localhost:3000/
 ```
 
-
-Database was hosted on an AWS server so data will not be able to be saved and only defaults displayed.
+Database was hosted on an AWS server so data will not be able to be saved and only hard coded values being displayed.
 
 ### Python
 IDE: Anaconda / Spyder
@@ -100,7 +99,7 @@ Save project to local machine. Inside Visual Studio Code navigate to folder.
 ```
 Open Terminal inside Visual Studio
 ```
-To download the repository and install dependencies, run the following commands:
+To download the repository and install dependencies, run the following command:
 
 ```
 npm install
