@@ -61,14 +61,16 @@ Save project to local machine. Inside Visual Studio Code navigate to folder.
 ```
 Open Terminal inside Visual Studio
 ```
-Run Commands
+To download the repository and install dependencies, run the following commands:
 
 ```
-npx create-react-app my-app
-cd my-app
+npm install
+```
+
+To build the react application and launch automatically in web browser:
+```
 npm start
 ```
-
 
 Application can be seen running via internet browser at address:
 ```
@@ -98,11 +100,14 @@ Save project to local machine. Inside Visual Studio Code navigate to folder.
 ```
 Open Terminal inside Visual Studio
 ```
-Run Commands
+To download the repository and install dependencies, run the following commands:
 
 ```
-npx create-react-app my-app
-cd my-app
+npm install
+```
+
+To build the react application and launch automatically in web browser:
+```
 npm start
 ```
 
@@ -110,3 +115,4 @@ Application can be seen running via internet browser at address:
 ```
 https://localhost:3000/
 ```
+
