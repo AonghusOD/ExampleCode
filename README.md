@@ -24,6 +24,7 @@ To run app:
 
 ### FreeRTOS
 IDE: MCUExpresso
+
 All projects are optimised to use FRDM-K64F Micocontroller. SO FRDM-K64F would be required to run or test code.
 
 Drag folder to workspace or import project.
