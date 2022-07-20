@@ -1,4 +1,5 @@
-React Website
+# React Website
+
 As part of miniproject for Cloud Computing we were requested to create a React website based on what we learned in our labs.
 
 - Props
