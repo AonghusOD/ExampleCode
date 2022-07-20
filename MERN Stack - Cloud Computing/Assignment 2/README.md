@@ -1,4 +1,6 @@
-As part of assignment we were requested to create a frontend using Nextjs to be hosted on AWS servers. Mongodb is used as the database. 
+# MERN Stack Assignment
+
+As part of the assignment we were requested to create a frontend using Nextjs to be hosted on AWS servers. Mongodb is used as the database. 
 
 Nodejs is used as middleware to handle requests from web application and database. 
 
@@ -9,9 +11,9 @@ Nextjs and Node can run independently using default data but any changes will be
 
 If data would like to be stored in a database, Mongodb will need to be installed and running "before" node server is started.
 
-## [Mongodb Download](https://www.mongodb.com/try/download/community)
+[Mongodb Download](https://www.mongodb.com/try/download/community)
 
-## [Good User Interface For Mongodb](https://studio3t.com)
+[Good User Interface For Mongodb](https://studio3t.com)
 
 ```
 Download folder "MERN Stack Site"
