@@ -1,1 +1,0 @@
-As part of assignment we were requested to create a frontend using nextjs to be hosted on AWS servers. Mongodb is used as the database. Nodejs is used as middleware to handle requests from web application and database. Express.js is used for URL routing and handling HTTP requests and responses.
